@@ -1,0 +1,1 @@
+I built a complete End-to-End Real-Time Traffic Data Engineering Project using Kafka, PySpark, and Delta Lake. This project simulates a real-world streaming data pipeline where traffic data is continuously generated, processed, cleaned, and transformed into analytics-ready datasets for business intelligence and dashboarding.
