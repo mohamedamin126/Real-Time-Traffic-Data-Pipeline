@@ -1,0 +1,3 @@
+This code is for connecting to the other part of the project based on DataBricks.
+
+The connection sends the bronze data by using it's path on the local PC to the host of the databricks token into the dbfs path and loaded on databricks to be used further
